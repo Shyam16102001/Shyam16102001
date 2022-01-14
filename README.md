@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying B.E Computer Science Engineering in Thiagarajar College of Engineering,Madurai.
 <!-- - 📫 To reach me please mail me at [m.s.m.shyam16102001@gmail.com](mailto:m.s.m.shyam16102001@gmail.com). \ -->
 <pre>
-   With ❤️,\
+   With ❤️,
    M.S.M.
 </pre> 
 

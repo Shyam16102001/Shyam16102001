@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Shyam16102001](https://github.com/Shyam16102001)
-- 👀 I’m interested in application developnment using Flutter and I also interested in cloud technologies and solutions..
+- 👀 I’m interested in application developnment using Flutter and also interested in cloud technologies and solutions.
 - 🌱 I’m currently studying B.E Computer Science Engineering in Thiagarajar College of Engineering,Madurai.
 - 🖥️ To know more about me [click here](https://shyam16102001.me).
 <!-- - 📫 To reach me please mail me at [m.s.m.shyam16102001@gmail.com](mailto:m.s.m.shyam16102001@gmail.com).  -->

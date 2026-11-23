@@ -1,16 +1,12 @@
-- 👋 Hi, I’m [@Shyam16102001](https://github.com/Shyam16102001)
-- 👀 I’m interested in application developnment using Flutter and also interested in cloud technologies and solutions.
-- 🌱 I completed my B.E Computer Science Engineering from Thiagarajar College of Engineering,Madurai.
-- 🖥️ To know more about me [click here](https://shyam16102001.github.io).
-<!-- - 📫 To reach me please mail me at [m.s.m.shyam16102001@gmail.com](mailto:m.s.m.shyam16102001@gmail.com).  -->
-<pre>
-   With ❤️,
-   M.S.M.
-</pre> 
+* 👋 Hi, I'm Shyam ([@Shyam16102001](https://github.com/Shyam16102001))
+* 🤖 I'm an AI engineer. Lately I've mostly been working on RAG, agents and LLM apps that people actually use.
+* 🛠️ I work mostly in Python and TypeScript, with LangChain, LangGraph, Next.js, and whichever cloud the project is on (GCP, AWS or Azure).
+* 🌱 Right now I'm learning more about agent evaluation and multi-agent setups.
+* 🎓 B.E. in Computer Science from Thiagarajar College of Engineering, Madurai.
+* 🖥️ More about me at [shyammurugaiah.dev](https://shyammurugaiah.dev), or say hi on [LinkedIn](https://www.linkedin.com/in/shyam16102001).
 
-<!---
-Shyam16102001/Shyam16102001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on Web development projects.
---->
-  
+
+```
+   With ❤️,
+   Shyam M
+```
